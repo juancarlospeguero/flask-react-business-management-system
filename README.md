@@ -1,6 +1,6 @@
 # Flask React Business Management System
 
-Full-stack retail management system built at Rootstack. Served 30+ enterprise clients, modernizing legacy PHP/jQuery systems.
+Full-stack retail management system. Served 30+ enterprise clients, modernizing legacy PHP/jQuery systems.
 
 ![CI workflow](https://github.com/juancarlospeguero/flask-react-business-management-system/actions/workflows/ci.yml/badge.svg)
 
